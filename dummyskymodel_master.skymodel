@@ -1,0 +1,5 @@
+FORMAT = Name, Type, Ra, Dec, I, Q, U, V, ReferenceFrequency='60e6', SpectralIndex='[0.0]', MajorAxis, MinorAxis, Orientation
+
+# the next lines define the sources
+#phase_center, POINT, 01:36:41.7470, +15.47.01.1828, 3.277, , , , , [-0.437]
+phase_center, POINT, RAhr:RAarcmin:RAarcsec, DECdeg.DECarcmin.DECarcsec, 1.00, , , , , [-0.0]

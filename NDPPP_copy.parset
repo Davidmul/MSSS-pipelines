@@ -1,0 +1,5 @@
+msin = input
+msin.datacolumn = CORRECTED_DATA
+msout = output
+msout.datacolumn = DATA
+steps = []
